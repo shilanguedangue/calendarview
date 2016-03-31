@@ -1,0 +1,1 @@
+A lightweight JavaScript calendar widget with an emphasis on being lightweight and observing web standards.  All styling is done with CSS, allowing for the calendar to match the look and feel of your project with ease.
